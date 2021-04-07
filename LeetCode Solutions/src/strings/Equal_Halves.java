@@ -1,4 +1,6 @@
 package strings;
+//1704  Determine if String Halves Are Alike
+
 
 public class Equal_Halves {
 	 public boolean halvesAreAlike(String s) {
